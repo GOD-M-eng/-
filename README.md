@@ -1,3 +1,3 @@
 # -
 数据探索性分析与数据预处理
-使用的youtube的jpvideos数据集
+使用的youtube数据集和wine数据集
